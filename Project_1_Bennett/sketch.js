@@ -4,10 +4,12 @@
 
 var clust1;
 var clust2;
+let xLoc;
 var c1, c2 c3;
 var collection = []; // making an array
 
 function setup() {
+  locX = 10;
   createCanvas(windowWidth, windowHeight);
   background(255);
   c1 = color(87, 199, 232);
