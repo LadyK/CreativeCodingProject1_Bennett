@@ -4,8 +4,8 @@
 
 var clust1;
 var clust2;
-var c1, c2;
-var collection = [];
+var c1, c2 c3;
+var collection = []; // making an array
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
